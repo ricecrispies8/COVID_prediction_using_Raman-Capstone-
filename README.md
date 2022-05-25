@@ -1,1 +1,1 @@
-# COVID_prediction_using_Raman-Capstone-
+# COVID Prediction Using Raman (Capstone Project)
